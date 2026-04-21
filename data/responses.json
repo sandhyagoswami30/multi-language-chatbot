@@ -1,0 +1,62 @@
+{
+  "hello": {
+    "en": "Hello! How can I help you?",
+    "hi": "नमस्ते! मैं आपकी कैसे मदद कर सकता हूँ?",
+    "es": "¡Hola! ¿Cómo puedo ayudarte?"
+  },
+  "hi": {
+    "en": "Hi there!",
+    "hi": "नमस्ते!",
+    "es": "¡Hola!"
+  },
+  "how are you": {
+    "en": "I'm doing great! How about you?",
+    "hi": "मैं ठीक हूँ! आप कैसे हैं?",
+    "es": "¡Estoy bien! ¿Y tú?"
+  },
+  "what is your name": {
+    "en": "I'm your chatbot assistant.",
+    "hi": "मैं आपका चैटबॉट सहायक हूँ।",
+    "es": "Soy tu asistente chatbot."
+  },
+  "bye": {
+    "en": "Goodbye! Have a great day!",
+    "hi": "अलविदा! आपका दिन शुभ हो!",
+    "es": "¡Adiós! ¡Que tengas un gran día!"
+  },
+  "thank you": {
+    "en": "You're welcome!",
+    "hi": "आपका स्वागत है!",
+    "es": "¡De nada!"
+  },
+  "help": {
+    "en": "I can help you with basic questions.",
+    "hi": "मैं आपकी बुनियादी सवालों में मदद कर सकता हूँ।",
+    "es": "Puedo ayudarte con preguntas básicas."
+  },
+  "what can you do": {
+    "en": "I can chat with you and answer simple questions.",
+    "hi": "मैं आपसे बात कर सकता हूँ और सरल प्रश्नों का उत्तर दे सकता हूँ।",
+    "es": "Puedo chatear contigo y responder preguntas simples."
+  },
+  "good morning": {
+    "en": "Good morning!",
+    "hi": "सुप्रभात!",
+    "es": "¡Buenos días!"
+  },
+  "good night": {
+    "en": "Good night!",
+    "hi": "शुभ रात्रि!",
+    "es": "¡Buenas noches!"
+  },
+  "who created you": {
+    "en": "I was created by a developer like you.",
+    "hi": "मुझे आपके जैसे डेवलपर ने बनाया है।",
+    "es": "Fui creado por un desarrollador como tú."
+  },
+  "tell me a joke": {
+    "en": "Why did the computer get cold? Because it forgot to close its windows!",
+    "hi": "कंप्यूटर ठंडा क्यों हो गया? क्योंकि उसने अपनी विंडोज बंद नहीं की!",
+    "es": "¿Por qué la computadora tenía frío? ¡Porque dejó sus ventanas abiertas!"
+  }
+}
